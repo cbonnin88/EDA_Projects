@@ -1,2 +1,2 @@
-# Python_Pandas
-Projects using Python Pandas
+# EDA Pandas & Polars
+Projects using Python Pandas & Polars
